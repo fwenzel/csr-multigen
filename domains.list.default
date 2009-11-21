@@ -1,0 +1,15 @@
+# domain list for ssl certificate generation
+
+# short name of server
+example
+
+# FQDN of server
+example.org
+
+# alternative host names
+example.com
+www.example.com
+example.net
+www.example.net
+ssl.example.org
+secure.example.org
